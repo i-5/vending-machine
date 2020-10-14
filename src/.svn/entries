@@ -1,0 +1,34 @@
+8
+
+dir
+3
+https://svn.codespot.com/a/eclipselabs.org/vending-machine/VendingMachine/src
+https://svn.codespot.com/a/eclipselabs.org/vending-machine
+
+
+
+2011-10-21T06:31:20.007074Z
+3
+ios.dev.works@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d8e66228-a45b-e147-723d-b72fa5916e8a
+
+HashTableDemo
+dir
+
+VendingMachine
+dir
+

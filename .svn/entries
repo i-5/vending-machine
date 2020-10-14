@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://svn.codespot.com/a/eclipselabs.org/vending-machine/VendingMachine
+https://svn.codespot.com/a/eclipselabs.org/vending-machine
+
+
+
+2011-10-21T06:30:44.992938Z
+2
+ios.dev.works@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d8e66228-a45b-e147-723d-b72fa5916e8a
+
+.classpath
+file
+3
+
+
+
+2011-10-20T02:42:38.000000Z
+0feefca3562e5167ed8224d805b3b922
+2011-10-21T06:31:20.007074Z
+3
+ios.dev.works@gmail.com
+
+.project
+file
+3
+
+
+
+2011-10-21T06:04:03.000000Z
+addccc0cd6c6f97ebf5c4fa23e8bee17
+2011-10-21T06:31:20.007074Z
+3
+ios.dev.works@gmail.com
+
+.settings
+dir
+
+src
+dir
+
